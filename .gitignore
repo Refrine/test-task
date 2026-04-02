@@ -1,0 +1,5 @@
+.env
+.env.local
+.idea/
+.vscode/
+postgres-data/
