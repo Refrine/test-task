@@ -3,3 +3,7 @@
 .idea/
 .vscode/
 postgres-data/
+config.yaml
+config.yml
+*.secret
+*.key
