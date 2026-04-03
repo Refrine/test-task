@@ -21,7 +21,7 @@ func LoadConfig() (*Config, error) {
     viper.AutomaticEnv()
 
     if err := viper.ReadInConfig(); err != nil {
-        logrus.Warn("No .env")
+        logrus.Warn("no .env")
     }
 
     config := &Config{

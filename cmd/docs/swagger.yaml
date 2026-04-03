@@ -1,0 +1,8 @@
+basePath: /
+host: localhost:8080
+info:
+  contact: {}
+  description: REST API
+  title: Subscription service API
+paths: {}
+swagger: "2.0"
